@@ -1,0 +1,21 @@
+{
+  "name": "healthcare-booking-backend",
+  "version": "1.0.0",
+  "description": "Backend API for Aura Care booking website",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.4.2",
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.3",
+    "mysql2": "^3.23.2",
+    "nodemailer": "^9.0.3",
+    "uuid": "^9.0.1",
+    "xlsx": "^0.18.5"
+  }
+}

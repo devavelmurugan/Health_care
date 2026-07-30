@@ -1,0 +1,53 @@
+{
+  "doctors": [
+    {
+      "id": "doc-1",
+      "name": "Dr. Evelyn Thorne",
+      "specialty": "Wellness & Spa Consultation",
+      "bio": "Specializes in holistic therapy, stress management, and preventative longevity care.",
+      "rating": 4.9,
+      "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?auto=format&fit=crop&q=80&w=300"
+    },
+    {
+      "id": "doc-2",
+      "name": "Dr. Marcus Vance",
+      "specialty": "Cardiology",
+      "bio": "Expert in cardiovascular health and premium personalized stress testing.",
+      "rating": 4.8,
+      "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?auto=format&fit=crop&q=80&w=300"
+    },
+    {
+      "id": "doc-3",
+      "name": "Dr. Serena Patel",
+      "specialty": "Dermatology",
+      "bio": "Focuses on premium skincare, anti-aging therapies, and aesthetic dermatology.",
+      "rating": 5,
+      "image": "https://images.unsplash.com/photo-1594824813573-246434de83fb?auto=format&fit=crop&q=80&w=300"
+    },
+    {
+      "id": "doc-4",
+      "name": "Dr. Adrian Sterling",
+      "specialty": "Pediatrics",
+      "bio": "Caring and gentle child development and family health consulting.",
+      "rating": 4.7,
+      "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?auto=format&fit=crop&q=80&w=300"
+    }
+  ],
+  "appointments": [
+    {
+      "id": "e2559f2c-8186-4ea4-8893-ed96a0576454",
+      "reference": "AC-FI41NU",
+      "doctorId": "doc-2",
+      "doctorName": "Dr. Marcus Vance",
+      "doctorSpecialty": "Cardiology",
+      "patientName": "ddea",
+      "patientEmail": "vijaydeva41@gmail.com",
+      "patientPhone": "9688760592",
+      "date": "2026-12-31",
+      "timeSlot": "01:00 PM",
+      "notes": "",
+      "status": "Checked-In",
+      "createdAt": "2026-07-30T05:12:59.347Z"
+    }
+  ]
+}
